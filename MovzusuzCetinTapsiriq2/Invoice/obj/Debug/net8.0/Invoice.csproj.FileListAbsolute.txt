@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\bin\Debug\net8.0\Invoice.exe
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\bin\Debug\net8.0\Invoice.deps.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\bin\Debug\net8.0\Invoice.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\bin\Debug\net8.0\Invoice.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\bin\Debug\net8.0\Invoice.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\refint\Invoice.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\Invoice.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Invoice\obj\Debug\net8.0\ref\Invoice.dll

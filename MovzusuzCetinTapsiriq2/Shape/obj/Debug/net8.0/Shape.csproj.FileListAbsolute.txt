@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\bin\Debug\net8.0\Shape.exe
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\bin\Debug\net8.0\Shape.deps.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\bin\Debug\net8.0\Shape.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\bin\Debug\net8.0\Shape.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\refint\Shape.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Shape\obj\Debug\net8.0\ref\Shape.dll

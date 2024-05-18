@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\bin\Debug\net8.0\Vehicles.exe
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\bin\Debug\net8.0\Vehicles.deps.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\bin\Debug\net8.0\Vehicles.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\bin\Debug\net8.0\Vehicles.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\bin\Debug\net8.0\Vehicles.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\refint\Vehicles.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\Vehicles.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq2\Vehicles\obj\Debug\net8.0\ref\Vehicles.dll
