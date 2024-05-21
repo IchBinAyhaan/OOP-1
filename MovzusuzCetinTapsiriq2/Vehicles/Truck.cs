@@ -14,7 +14,7 @@ namespace Vehicles
             LoadCapacity = loadCapacity;
         }
 
-        // Bilgi Ver metodu (override edilmiş)
+       
         public override void Information()
         {
             base.Information();
