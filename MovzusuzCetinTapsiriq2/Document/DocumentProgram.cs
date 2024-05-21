@@ -2,7 +2,7 @@
 
 namespace Document
 {
-   abstract class DocumentProgram
+   internal class DocumentProgram
     { 
         public void OpenDocument()
         {
