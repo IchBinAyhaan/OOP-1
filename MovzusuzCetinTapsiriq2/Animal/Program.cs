@@ -4,13 +4,13 @@
     {
         static void Main(string[] args)
         {
-            // Kedi ve köpek nesneleri oluşturuluyor
-            Cat cat = new Cat("Mia", 3, "Dişi", "Siyah");
-            Dog dog = new Dog("Max", 5, "Erkek", "Kahverengi");
+          
+            Cat cat = new Cat("Mia", 3, "Dişi", "Qara");
+            Dog dog = new Dog("Max", 5, "Erkek", "Qehveyi");
 
-            // Sesler çıkarılıyor
-            cat.MakeSound(); // Mia miyav diye ses çıkarır.
-            dog.MakeSound(); // Max hav diye ses çıkarır.
+            
+            cat.MakeSound(); 
+            dog.MakeSound(); 
         }
     }
 }
