@@ -2,7 +2,7 @@
 
 namespace Library
 {
-    abstract class Book
+    internal class Book
     {
         public string Title { get; }
         public string Author { get; }
